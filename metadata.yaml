@@ -1,0 +1,36 @@
+_repo: Meren-maininkeja_64379
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Larin-Kyösti
+    aliases:
+    - Kyösti, Larin
+    - Larson, Gösta
+    - Larson, Kyösti
+    - Larson, Gosta
+    - Larsson, Karl Gustaf
+    - Larson, Karl Gustaf
+    - Larson, Kaarlo Kyösti
+    - Larin-Kyosti
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '45809'
+    url: http://www.gutenberg.org/2009/agents/45809
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Larin-Ky%C3%B6sti
+    - https://fi.wikipedia.org/wiki/Larin-Ky%C3%B6sti
+description: ''
+gutenberg_issued: '2021-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64379'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: Meren maininkeja
+url: http://www.gutenberg.org/ebooks/64379
